@@ -1,0 +1,51 @@
+body {
+margin-bottom: 20%;
+}
+div {
+  float: left;
+}
+.element1 {
+  background-color: #51C072;
+  width: 80%;
+  height: 10px;
+}
+.element2 {
+  background-color: #4687b9;
+  width: 20%;
+  height: 10px;
+}
+.element3 {
+  background-color: #da8027;
+  width: 34%;
+  height: 20px;
+}
+.element4 {
+  background-color: #99a6a7;
+  width: 33%;
+  height: 20px;
+}
+.element5 {
+  background-color: tomato;
+  width: 33%;
+  height: 40px;
+}
+.element6 {
+  background-color: #3e9b86;
+  width: 23%;
+  height: 20px;
+}
+.element7 {
+  background-color: #c75b12;
+  width: 22%;
+  height: 20px;
+}
+.element {
+  background-color: yellow;
+  width: 22%;
+  height: 20px;
+}
+.element8 {
+  background-color: #2d3e4f;
+  width: 100%;
+  height: 40px;
+}
